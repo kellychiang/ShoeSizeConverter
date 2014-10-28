@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>575AE65B-4BA4-4269-9440-C9D409D2FC11</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShoeSizeConverter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D33A3DC5C59A77042D8B3D8E252E0259D5670096</key>
+		<string>https://github.com/kellychiang/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShoeSizeConverter/ShoeSizeConverter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D33A3DC5C59A77042D8B3D8E252E0259D5670096</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kellychiang/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D33A3DC5C59A77042D8B3D8E252E0259D5670096</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D33A3DC5C59A77042D8B3D8E252E0259D5670096</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
